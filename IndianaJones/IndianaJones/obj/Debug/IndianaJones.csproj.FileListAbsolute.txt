@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\bin\Debug\IndianaJones.exe.config
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\obj\Debug\IndianaJones.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\bin\Debug\IndianaJones.exe
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\bin\Debug\IndianaJones.pdb
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\obj\Debug\IndianaJones.exe
+C:\Users\IVAN\Desktop\Programming-101-CSharp\IndianaJones\IndianaJones\obj\Debug\IndianaJones.pdb
